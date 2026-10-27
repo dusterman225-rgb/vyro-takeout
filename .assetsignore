@@ -1,0 +1,6 @@
+wrangler.jsonc
+.assetsignore
+firestore.rules
+README.txt
+.git
+.wrangler
